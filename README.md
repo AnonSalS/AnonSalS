@@ -79,11 +79,6 @@ I’m happy to collaborate on:
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xAnonsal&show_icons=true&hide_title=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnonsal&layout=compact)
-
 ---
 
 ## ✨ Fun Fact
