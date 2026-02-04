@@ -1,8 +1,92 @@
-Hello! I'm Saleh, a Mechatronics Engineer with a Master's in Data Science and Analytics, and currently pursuing a Master’s in FinTech.
+# Hi there 👋 I'm Saleh Sinawi
 
-My passion lies at the intersection of Machine Learning, Data Exploration, Consultation, and emerging technologies like Crypto and Blockchain. I’m especially interested in building data-driven solutions, smart applications, and prediction models for real-world financial and blockchain use cases.
+🎓 Mechatronics Engineer | M.Sc. Data Science & Analytics | FinTech Master’s (in progress)  
+📍 Madrid, Spain | 🌍 International background (Venezuela • Jordan • Spain)  
+💡 Passionate about Machine Learning, Data Exploration, Consulting, and emerging tech (Crypto & Blockchain)
 
-In this repository, you'll find a collection of my projects and contributions that showcase my expertise and interests in these fields.
-Whether it's exploring complex datasets, developing innovative machine learning models, building blockchain projects, or providing insightful consultations, I'm dedicated to pushing the boundaries of what's possible with data and technology.
+---
 
-Feel free to explore, collaborate, and connect with me. Let's create something amazing together!
+## 🚀 About Me
+I’m **Saleh**, a data-driven engineer with a strong interest in building real-world solutions using:
+
+- **Machine Learning & Predictive Modeling**
+- **Data Analytics & Decision Support**
+- **FinTech applications**
+- **Crypto & Blockchain use cases**
+
+I enjoy working on projects that turn raw data into insights, automation, and scalable systems — especially in financial and high-impact environments.
+
+📫 **Reach me:**  
+- Email: **Sinawisaleh@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/saleh-sinawi/**  
+
+---
+
+## 🧠 What I’m Interested In
+✅ Forecasting & optimization  
+✅ NLP and sentiment analysis  
+✅ Risk modeling & financial analytics  
+✅ Business intelligence and dashboards  
+✅ Blockchain analytics and smart applications  
+✅ Consulting-style problem solving
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Data
+- **Python**, **SQL**, **R**
+- **C++**, **Rust**, Java
+
+### 🤖 Machine Learning / AI
+- Machine Learning (supervised & unsupervised)
+- Deep Learning
+- TensorFlow
+- NLP
+- Feature engineering & preprocessing
+
+### 📊 Analytics & BI
+- Power BI
+- Data exploration & visualization
+- Reporting and insights
+
+### ⚙️ Tools
+- Git / GitHub
+- Excel automation
+- ML Ops (basic)
+
+---
+
+## 📌 Featured Projects
+Here are some areas you’ll find in my repositories:
+
+- 📈 **Demand Forecasting & Pricing Optimization**
+- 🏦 **Mortgage Decision-Making Models**
+- 🌍 **Regulatory Impact Analysis (Madrid Central Air Pollution)**
+- 🎬 **NLP Sentiment Analysis (Disney Reviews)**
+- 🔗 **Crypto / Blockchain-related experiments**
+
+> ⭐ If you find something interesting, feel free to open an issue or reach out — I’m always open to collaboration.
+
+---
+
+## 🤝 Open to Collaboration
+I’m happy to collaborate on:
+- ML/AI projects (forecasting, classification, NLP)
+- FinTech analytics and decision systems
+- Crypto / blockchain data projects
+- Data automation and analytics pipelines
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xAnonsal&show_icons=true&hide_title=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnonsal&layout=compact)
+
+---
+
+## ✨ Fun Fact
+I enjoy building projects that connect **engineering + business + data + finance**, and I’m always looking for problems worth solving.
+
+Thanks for visiting! ⭐
